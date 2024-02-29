@@ -1,0 +1,74 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Ampliacio_Voreres",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1729047734, 41.3883098051 ],
+					[ 2.1820098598, 41.3815010586 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K036",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380221",
+				"TOOLTIP" : "Ampliació de voreres "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1648967414, 41.3858447156 ],
+					[ 2.1698426607, 41.3854782026 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K036",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380222",
+				"TOOLTIP" : "Ampliació de voreres "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.164748186, 41.3859930899 ],
+					[ 2.1698858917, 41.3879177486 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K036",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380223",
+				"TOOLTIP" : "Ampliació de voreres "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1318223199, 41.3807421793 ],
+					[ 2.1324213336, 41.3809008248 ],
+					[ 2.1330456728, 41.381078925 ],
+					[ 2.1340016188, 41.3813269483 ],
+					[ 2.1346129278, 41.381524209 ],
+					[ 2.135364268, 41.381770682 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K036",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380224",
+				"TOOLTIP" : "Ampliació de voreres "
+			}
+		}
+	]
+}

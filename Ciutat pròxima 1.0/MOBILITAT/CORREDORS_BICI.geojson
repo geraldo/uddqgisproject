@@ -1,0 +1,1409 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Corredors_Bici_GeoJson",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1620090142, 41.4126530313 ],
+					[ 2.163804, 41.4106353322 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380689",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1607694435, 41.3976884787 ],
+					[ 2.1609540047, 41.397437745 ],
+					[ 2.1613104877, 41.3971731659 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380690",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.184502907, 41.4172152627 ],
+					[ 2.1854427134, 41.4179361442 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380691",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.2051981738, 41.4015368532 ],
+					[ 2.2051146101, 41.4015257726 ],
+					[ 2.2046307626, 41.4011653158 ],
+					[ 2.2044838546, 41.4012010618 ],
+					[ 2.2039241295, 41.4007718057 ],
+					[ 2.2039261803, 41.4006037666 ],
+					[ 2.2034703711, 41.4002329955 ],
+					[ 2.2033447078, 41.4002426289 ],
+					[ 2.2030478338, 41.3999937447 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380692",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1823676827, 41.3966608859 ],
+					[ 2.1827131911, 41.3977674451 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380693",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1290429271, 41.3871632166 ],
+					[ 2.1284115341, 41.3880997962 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380671",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1283215198, 41.3880518494 ],
+					[ 2.1290449244, 41.3870135593 ],
+					[ 2.1291337728, 41.3870181706 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380672",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1291878715, 41.3795664647 ],
+					[ 2.1291222164, 41.379261371 ],
+					[ 2.1305488833, 41.375275637 ],
+					[ 2.1313801431, 41.3730604562 ],
+					[ 2.1318495352, 41.3718403577 ],
+					[ 2.1319262861, 41.3718356851 ],
+					[ 2.1322108491, 41.3714071938 ],
+					[ 2.1323772516, 41.3709515526 ],
+					[ 2.1321975431, 41.3708346606 ],
+					[ 2.1328704525, 41.3689858904 ],
+					[ 2.1329902792, 41.3688870114 ],
+					[ 2.1334344477, 41.367987068 ],
+					[ 2.1337136152, 41.3674377434 ],
+					[ 2.1344535846, 41.3663089482 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380673",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1618225246, 41.3984399212 ],
+					[ 2.1611802648, 41.3979442105 ],
+					[ 2.1611485111, 41.3979728632 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380674",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1629141153, 41.3975844748 ],
+					[ 2.1598568475, 41.3967937767 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380675",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1188582353, 41.3865913615 ],
+					[ 2.1179201337, 41.386347849 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380676",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1705530885, 41.4139382922 ],
+					[ 2.17007545, 41.4136460072 ],
+					[ 2.1693824445, 41.4132838941 ],
+					[ 2.1688487445, 41.4130122058 ],
+					[ 2.1683626046, 41.4128406401 ],
+					[ 2.1680142338, 41.4128066115 ],
+					[ 2.1677761301, 41.4128784125 ],
+					[ 2.1675526472, 41.4128978023 ],
+					[ 2.1671767772, 41.4128320624 ],
+					[ 2.1668785102, 41.4126986117 ],
+					[ 2.1667204239, 41.4125136592 ],
+					[ 2.166444361, 41.412280587 ],
+					[ 2.1659104129, 41.4120298899 ],
+					[ 2.1653045646, 41.4119467213 ],
+					[ 2.1648792697, 41.4119278801 ],
+					[ 2.1645925402, 41.4119835666 ],
+					[ 2.164145848, 41.4120013288 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380677",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1198638002, 41.3896535548 ],
+					[ 2.1195578433, 41.3895881942 ],
+					[ 2.1187952229, 41.3892567533 ],
+					[ 2.1183788387, 41.3891065172 ],
+					[ 2.1178066409, 41.3891336415 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380678",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1953972726, 41.4298959093 ],
+					[ 2.1846430002, 41.430105399 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380679",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1177585079, 41.3757285485 ],
+					[ 2.1304318765, 41.375468248 ],
+					[ 2.1361968817, 41.3753561724 ],
+					[ 2.1483436581, 41.3750887827 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380680",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1483728931, 41.3752036018 ],
+					[ 2.1253792409, 41.3756584754 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380681",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1845058419, 41.4287029723 ],
+					[ 2.1846276956, 41.4301071067 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380682",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1839636797, 41.4365386789 ],
+					[ 2.1823164384, 41.4312935413 ],
+					[ 2.1823910554, 41.4307809534 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380683",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.207088882, 41.4003472673 ],
+					[ 2.2067405558, 41.4003133563 ],
+					[ 2.2044753106, 41.398470137 ],
+					[ 2.2044072359, 41.398333123 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380684",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1480363599, 41.3760816747 ],
+					[ 2.1478140045, 41.3759397203 ],
+					[ 2.1476648407, 41.3758141989 ],
+					[ 2.1475607195, 41.3756684947 ],
+					[ 2.1474595616, 41.3754082091 ],
+					[ 2.1473681414, 41.3751255482 ],
+					[ 2.1473612426, 41.3749043139 ],
+					[ 2.1473275824, 41.3744838164 ],
+					[ 2.1474324152, 41.3743260785 ],
+					[ 2.147492458, 41.37404578 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380685",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1833296155, 41.4294501427 ],
+					[ 2.1753903516, 41.4294391452 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380686",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1764944633, 41.4282076683 ],
+					[ 2.175367493, 41.4290398572 ],
+					[ 2.1752792474, 41.4293963357 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380687",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.186736785, 41.4171050357 ],
+					[ 2.1823129501, 41.4204977515 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380688",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1689645305, 41.3815566003 ],
+					[ 2.1687171858, 41.3817931016 ],
+					[ 2.1684454189, 41.3820715981 ],
+					[ 2.1684041291, 41.3821161262 ],
+					[ 2.1677746024, 41.3827425294 ],
+					[ 2.1674885716, 41.3833215187 ],
+					[ 2.1670351983, 41.383781107 ],
+					[ 2.1665519855, 41.3842464317 ],
+					[ 2.1664790285, 41.3843174683 ],
+					[ 2.1664453917, 41.3843502054 ],
+					[ 2.1663255178, 41.3844615505 ],
+					[ 2.1651444337, 41.3845910054 ],
+					[ 2.1641399233, 41.3841413468 ],
+					[ 2.1638721566, 41.3841358625 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380655",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1662174979, 41.3844572289 ],
+					[ 2.1661296283, 41.3843468854 ],
+					[ 2.165395867, 41.3836691692 ],
+					[ 2.1649212457, 41.383304755 ],
+					[ 2.1641534873, 41.3827152573 ],
+					[ 2.1636971292, 41.3823934378 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380656",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1671513108, 41.3805622439 ],
+					[ 2.1681878512, 41.3796863913 ],
+					[ 2.1681570531, 41.3797195535 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380657",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1739939262, 41.4164042688 ],
+					[ 2.1739868072, 41.4164001692 ],
+					[ 2.1739256558, 41.4163875847 ],
+					[ 2.1738440796, 41.4163740439 ],
+					[ 2.1738123976, 41.4163701727 ],
+					[ 2.1737764443, 41.4163638418 ],
+					[ 2.173736404, 41.4163546476 ],
+					[ 2.1737099769, 41.4163463609 ],
+					[ 2.173682481, 41.4163375267 ],
+					[ 2.173630378, 41.4163182595 ],
+					[ 2.1735897063, 41.4163023133 ],
+					[ 2.1735356097, 41.4162706165 ],
+					[ 2.173471011, 41.4162188717 ],
+					[ 2.1734412383, 41.416191668 ],
+					[ 2.1733904479, 41.4161254479 ],
+					[ 2.1733715059, 41.4160923842 ],
+					[ 2.1733540801, 41.4160528538 ],
+					[ 2.1733318926, 41.4159647075 ],
+					[ 2.1733151744, 41.4158976526 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380658",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1684161967, 41.3891468758 ],
+					[ 2.1698820361, 41.3879627047 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380659",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1621016099, 41.3761268099 ],
+					[ 2.1642704107, 41.3777603982 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380660",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1587043801, 41.3768838596 ],
+					[ 2.1620886257, 41.37944502 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380661",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1682205334, 41.3897126256 ],
+					[ 2.1668656548, 41.3908094647 ],
+					[ 2.1648381829, 41.3924462526 ],
+					[ 2.1629860447, 41.3939438307 ],
+					[ 2.1611438104, 41.3954148139 ],
+					[ 2.1599477219, 41.3963989155 ],
+					[ 2.1599310518, 41.3964448029 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380662",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1594108806, 41.3963828871 ],
+					[ 2.1616143001, 41.3945876575 ],
+					[ 2.1636159479, 41.3929701119 ],
+					[ 2.1656628823, 41.3913238008 ],
+					[ 2.1679407423, 41.3894636061 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380663",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1701929007, 41.3880971735 ],
+					[ 2.1686500646, 41.3893137551 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380664",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1768142213, 41.3824323272 ],
+					[ 2.1741851389, 41.3803261223 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380665",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1455815302, 41.343990643 ],
+					[ 2.1326522111, 41.3229700289 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380666",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1745630107, 41.379375547 ],
+					[ 2.1720617604, 41.3769655211 ],
+					[ 2.1716367651, 41.3771885609 ],
+					[ 2.1697781881, 41.375212369 ],
+					[ 2.1697901376, 41.3749568656 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380667",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1699815295, 41.3749582463 ],
+					[ 2.1720615792, 41.3769655198 ],
+					[ 2.1712294729, 41.3774018963 ],
+					[ 2.1740317102, 41.3801057352 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380668",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1588043653, 41.4098784147 ],
+					[ 2.1573517587, 41.4091163123 ],
+					[ 2.1549257191, 41.4077921793 ],
+					[ 2.1540267393, 41.4073049797 ],
+					[ 2.1524130244, 41.4064455115 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380669",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1532263176, 41.4057087652 ],
+					[ 2.1537669878, 41.4060797415 ],
+					[ 2.1542769683, 41.4063565556 ],
+					[ 2.1552220747, 41.4068659372 ],
+					[ 2.1553457959, 41.4067226676 ],
+					[ 2.1558817585, 41.4070105879 ],
+					[ 2.1557757284, 41.4071321427 ],
+					[ 2.1562972745, 41.4074134018 ],
+					[ 2.1570783066, 41.4078232616 ],
+					[ 2.1587558352, 41.408691869 ],
+					[ 2.1592226466, 41.4089443158 ],
+					[ 2.1595367294, 41.4091148182 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380670",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1929795084, 41.4022647994 ],
+					[ 2.1951499635, 41.4005763057 ],
+					[ 2.1952625633, 41.4006196857 ],
+					[ 2.1961053916, 41.3999334504 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380639",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1939147192, 41.4032616289 ],
+					[ 2.1960135609, 41.4016471541 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380640",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1946289869, 41.3891171582 ],
+					[ 2.1974980017, 41.3916485842 ],
+					[ 2.2007457552, 41.3944901819 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380641",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1881968107, 41.4033862987 ],
+					[ 2.1884615359, 41.4033981376 ],
+					[ 2.1888240296, 41.4035353068 ],
+					[ 2.1890416009, 41.4036116256 ],
+					[ 2.1890693849, 41.403640489 ],
+					[ 2.1890238672, 41.4038395949 ],
+					[ 2.1889965424, 41.4040400754 ],
+					[ 2.1887589198, 41.4039785722 ],
+					[ 2.1885669644, 41.4039722329 ],
+					[ 2.1885591647, 41.4040669056 ],
+					[ 2.1882714087, 41.4043091735 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380642",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1868724474, 41.4049798387 ],
+					[ 2.1868392705, 41.4028606957 ],
+					[ 2.1865680328, 41.4020997286 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380643",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1607153642, 41.3753478249 ],
+					[ 2.1608145389, 41.3754146429 ],
+					[ 2.1611183237, 41.3754037705 ],
+					[ 2.1611893402, 41.3753500689 ],
+					[ 2.1611310562, 41.3752499302 ],
+					[ 2.1611583223, 41.3749952357 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380644",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1774832081, 41.3900026456 ],
+					[ 2.1776187653, 41.3899580423 ],
+					[ 2.1784411284, 41.3893434338 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380645",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1814543106, 41.3936828746 ],
+					[ 2.1810889875, 41.3924682302 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380646",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1402040336, 41.3685752442 ],
+					[ 2.1392263423, 41.3678159917 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380647",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1882856657, 41.4006462812 ],
+					[ 2.1884411079, 41.4005602026 ],
+					[ 2.1904086843, 41.3990581847 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380648",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1892542437, 41.4050498541 ],
+					[ 2.1926478316, 41.4076151128 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380649",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1924531846, 41.4077493524 ],
+					[ 2.1885716601, 41.404850109 ],
+					[ 2.1881462025, 41.4044063892 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380650",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1576148379, 41.3811698084 ],
+					[ 2.165786279, 41.3749847688 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380651",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1730114082, 41.3812031587 ],
+					[ 2.1723567034, 41.3809578042 ],
+					[ 2.1721934748, 41.3809141629 ],
+					[ 2.1714783526, 41.3807755477 ],
+					[ 2.1710718961, 41.3806452189 ],
+					[ 2.1701759428, 41.3803698024 ],
+					[ 2.1696702614, 41.380230664 ],
+					[ 2.1687983017, 41.3799695656 ],
+					[ 2.1683089919, 41.379810317 ],
+					[ 2.1681757898, 41.3797284643 ],
+					[ 2.1680583866, 41.3796709927 ],
+					[ 2.1679343771, 41.3797105409 ],
+					[ 2.1677337243, 41.3796544892 ],
+					[ 2.1674418969, 41.3795896884 ],
+					[ 2.1670613478, 41.379534356 ],
+					[ 2.1664724685, 41.379498747 ],
+					[ 2.1657337669, 41.3794216039 ],
+					[ 2.1655492764, 41.379361621 ],
+					[ 2.1651573865, 41.379248566 ],
+					[ 2.1648003334, 41.3791408181 ],
+					[ 2.1638890669, 41.3789117532 ],
+					[ 2.1632392192, 41.3787108715 ],
+					[ 2.1631702155, 41.3785435344 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380652",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1633860812, 41.3803449031 ],
+					[ 2.1675196271, 41.3805824996 ],
+					[ 2.1679228956, 41.3808921237 ],
+					[ 2.1683264942, 41.3811761337 ],
+					[ 2.1689882468, 41.38156986 ],
+					[ 2.169556124, 41.3818860597 ],
+					[ 2.1716435266, 41.3829931183 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380653",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1636416595, 41.382121169 ],
+					[ 2.1644805247, 41.3825910315 ],
+					[ 2.1653076813, 41.3817378051 ],
+					[ 2.1665528496, 41.3806682998 ],
+					[ 2.1667135792, 41.3805412385 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380654",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1846108658, 41.4120550454 ],
+					[ 2.1850433363, 41.412714283 ],
+					[ 2.1859364396, 41.4141324844 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380622",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1867196159, 41.4139629208 ],
+					[ 2.1866658465, 41.413955168 ],
+					[ 2.1865848015, 41.41397487 ],
+					[ 2.1864250906, 41.4140198203 ],
+					[ 2.1862727012, 41.4140666654 ],
+					[ 2.1861570123, 41.4141156131 ],
+					[ 2.1860483229, 41.4141922579 ],
+					[ 2.1855584577, 41.4145979779 ],
+					[ 2.1835334854, 41.4120621503 ],
+					[ 2.1843517196, 41.4116329625 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380623",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1704935971, 41.377710756 ],
+					[ 2.1712020411, 41.3774209498 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380624",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1227748963, 41.3878665885 ],
+					[ 2.1217932535, 41.3903378841 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380625",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1815950567, 41.3941966359 ],
+					[ 2.1821670279, 41.3959767435 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380626",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1425912777, 41.3954549382 ],
+					[ 2.1430147261, 41.3950747218 ],
+					[ 2.1430423443, 41.3950959341 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380627",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.140659, 41.420895254 ],
+					[ 2.1408590978, 41.4184179761 ],
+					[ 2.1411246243, 41.4173276179 ],
+					[ 2.1429488347, 41.4144213099 ],
+					[ 2.1429515881, 41.413150433 ],
+					[ 2.1429734076, 41.4125519083 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380628",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1397968224, 41.414854679 ],
+					[ 2.1401084399, 41.4150303126 ],
+					[ 2.1399096582, 41.4152914087 ],
+					[ 2.1390572119, 41.4159204812 ],
+					[ 2.139513036, 41.4162704995 ],
+					[ 2.1400878, 41.4165951469 ],
+					[ 2.1390167975, 41.4173958892 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380629",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1384232891, 41.4163778799 ],
+					[ 2.1390498895, 41.4159466846 ],
+					[ 2.139845838, 41.4153697062 ],
+					[ 2.1398888005, 41.4152860011 ],
+					[ 2.1395909951, 41.4151209735 ],
+					[ 2.1396680738, 41.4150952917 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380630",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1094935174, 41.3879037353 ],
+					[ 2.1090544348, 41.3873751704 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380631",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1208938272, 41.3900658069 ],
+					[ 2.1206365742, 41.3905259871 ],
+					[ 2.120337621, 41.3909753446 ],
+					[ 2.1199710574, 41.3912666345 ],
+					[ 2.1195327559, 41.3915120786 ],
+					[ 2.1189049124, 41.3917206211 ],
+					[ 2.118289576, 41.3918419473 ],
+					[ 2.1181259849, 41.3918846762 ],
+					[ 2.1179410838, 41.3919561256 ],
+					[ 2.117714443, 41.3920843665 ],
+					[ 2.1175267856, 41.3922306302 ],
+					[ 2.117595736, 41.3922889272 ],
+					[ 2.1178626628, 41.3925338631 ],
+					[ 2.118102537, 41.3928455496 ],
+					[ 2.1182834601, 41.3931331515 ],
+					[ 2.1183928136, 41.3934917585 ],
+					[ 2.1184096828, 41.3938562213 ],
+					[ 2.1183696427, 41.3941742961 ],
+					[ 2.1182518237, 41.3946355389 ],
+					[ 2.1180642885, 41.3949012796 ],
+					[ 2.117851329, 41.3951129955 ],
+					[ 2.1174919958, 41.3953183367 ],
+					[ 2.1173624535, 41.3953567305 ],
+					[ 2.117103013, 41.395459773 ],
+					[ 2.1166312705, 41.3955323012 ],
+					[ 2.1158065279, 41.3957924876 ],
+					[ 2.1143067352, 41.3965870811 ],
+					[ 2.1139165969, 41.3968125241 ],
+					[ 2.1136634768, 41.3969628724 ],
+					[ 2.1131331108, 41.3972423748 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380632",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1177095233, 41.3952202235 ],
+					[ 2.1148820599, 41.393121478 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380633",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1255295889, 41.3979014833 ],
+					[ 2.1267527198, 41.3969260879 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380634",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1733537285, 41.4034042701 ],
+					[ 2.1754450581, 41.4018437795 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380635",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1823979626, 41.3930272766 ],
+					[ 2.1845434706, 41.394620628 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380636",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1833930458, 41.404251864 ],
+					[ 2.184933611, 41.4030663262 ],
+					[ 2.1864975214, 41.4020860503 ],
+					[ 2.1870422759, 41.4021841965 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380637",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1961487723, 41.4032985551 ],
+					[ 2.1927716994, 41.4007726069 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380638",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.1859327829, 41.4114838033 ],
+					[ 2.1828255239, 41.4128736545 ],
+					[ 2.1814156933, 41.4134221169 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380620",
+				"TOOLTIP" : "Corredors bici"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 2.183212085, 41.412701297 ],
+					[ 2.1854586529, 41.4163151179 ],
+					[ 2.1855265615, 41.4163672078 ],
+					[ 2.1858398564, 41.416376798 ]
+				]
+			},
+			"properties" : {
+				"CODI_CAPA" : "K033",
+				"CODI_SUBCAPA" : "K06",
+				"ID" : "GL1380621",
+				"TOOLTIP" : "Corredors bici"
+			}
+		}
+	]
+}
